@@ -1,0 +1,6 @@
+print('print')
+f=open('demo.txt', 'w')
+f.write("Good morning ")
+f.writelines (["\nharpreet\n", "kamal\n", "gurpreet\n"])
+# print(f.read())
+f.close()

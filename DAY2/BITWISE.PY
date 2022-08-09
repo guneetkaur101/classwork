@@ -1,5 +1,3 @@
-from turtle import ycor
-
 
 x=input("enter the value of x:")
 y=input("enter the value of y:")
